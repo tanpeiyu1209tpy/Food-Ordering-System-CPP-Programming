@@ -1,0 +1,250 @@
+Western,Cowboy Steakhouse,CS1,Appetizer,Buffalo Wings,10,"Spicy,Mild,Boneless"
+Western,Cowboy Steakhouse,CS2,Appetizer,Caesar Salad,8,
+Western,Cowboy Steakhouse,CS3,Appetizer,Mozzarella Sticks,7,
+Western,Cowboy Steakhouse,CS4,Appetizer,Onion Rings,6,
+Western,Cowboy Steakhouse,CS5,Main Course,Ribeye Steak,25,"Rare,Medium Rare,Medium,Medium Well,Well Done"
+Western,Cowboy Steakhouse,CS6,Main Course,BBQ Ribs,22,"Spicy BBQ,Sweet BBQ,Dry Rub"
+Western,Cowboy Steakhouse,CS7,Side,Garlic Mashed Potatoes,6,
+Western,Cowboy Steakhouse,CS8,Dessert,Apple Pie,7,
+Western,Cowboy Steakhouse,CS9,Drink,Lemonade,3,"Regular,Sugar-Free"
+Western,Cowboy Steakhouse,CS10,Drink,Milkshake,5,"Vanilla,Chocolate,Strawberry"
+Western,Blue Sky Diner,BD1,Appetizer,Chicken Tenders,8,"BBQ Sauce,Honey Mustard Plain"
+Western,Blue Sky Diner,BD2,Appetizer,French Onion Soup,7,
+Western,Blue Sky Diner,BD3,Appetizer,Cobb Salad,8,
+Western,Blue Sky Diner,BD4,Appetizer,Shrimp Cocktail,9,"Extra Sauce,Less Sauce"
+Western,Blue Sky Diner,BD5,Main Course,BLT Sandwich,10,
+Western,Blue Sky Diner,BD6,Main Course,Fish and Chips,14,"Cod Fish,Haddock Fish "
+Western,Blue Sky Diner,BD7,Side,Sweet Potato Fries,5,
+Western,Blue Sky Diner,BD8,Dessert,Cheesecake,6,
+Western,Blue Sky Diner,BD9,Drink,Soda,2,"Regular,Diet"
+Western,Blue Sky Diner,BD10,Drink,Red Wine,7,"Merlot,Cabernet Sauvignon"
+Western,La Trattoria,LT1,Appetizer,Bruschetta,7,
+Western,La Trattoria,LT2,Appetizer,Garlic Bread,5,
+Western,La Trattoria,LT3,Appetizer,Minestrone Soup,8,
+Western,La Trattoria,LT4,Appetizer,Fried Calamari,9,
+Western,La Trattoria,LT5,Appetizer,Focaccia Bread,6,"With Rosemary,With Olives"
+Western,La Trattoria,LT6,Main Course,Margherita Pizza,14,"Crispy Crust,Gluten-Free Crust,Normal Crust"
+Western,La Trattoria,LT7,Main Course,Fettuccine Alfredo,16,"Chicken,Shrimp"
+Western,La Trattoria,LT8,Dessert,Tiramisu,9,
+Western,La Trattoria,LT9,Drink,Espresso,3,
+Western,La Trattoria,LT10,Drink,Limoncello,5,"Chiled,Room Temperature"
+Western,Harvest Table,HT1,Appetizer,Stuffed Mushrooms,8,
+Western,Harvest Table,HT2,Appetizer,Tomato Basil Soup,6,
+Western,Harvest Table,HT3,Appetizer,Mixed Greens Salad,7,"Vinaigrette,Ranch"
+Western,Harvest Table,HT4,Appetizer,Nachos,8,
+Western,Harvest Table,HT5,Main Course,Roast Beef,18,"Rare,Medium Rare,Medium,Medium Well,Well Done"
+Western,Harvest Table,HT6,Main Course,Pork Chops,20,
+Western,Harvest Table,HT7,Side,Mac and Cheese,5,
+Western,Harvest Table,HT8,Dessert,Pecan Pie,7,"With Whipped Cream,Without Whipped Cream"
+Western,Harvest Table,HT9,Drink,Iced Coffee,4,"With Milk,Black"
+Western,Harvest Table,HT10,Drink,Caraft Beer,6,"IPA,Stout"
+Western,II Forno,IF1,Appetizer,Arancini,8,"With Marinara Sauce,With Pesto"
+Western,II Forno,IF2,Appetizer,Crostini,7,"Tomato,Mushroom"
+Western,II Forno,IF3,Appetizer,Zuppa Toscana,8,
+Western,II Forno,IF4,Appetizer,Greek Salad,9,
+Western,II Forno,IF5,Appetizer,Eggplant Parmeson,8,
+Western,II Forno,IF6,Main Course,Penne Arrabbiata,14,"Extra Spicy,Mild"
+Western,II Forno,IF7,Main Course,Veal Marsala,20,
+Western,II Forno,IF8,Dessert,Sfogliatella,6,"Chocolate,Plain"
+Western,II Forno,IF9,Drink,Aperol Spritz,7,
+Western,II Forno,IF10,Drink,Chianti Wine,8,"Reserva,Classico"
+Arabic,Pasha's Palace,PP1,Appetizer,Tabbouleh Salad,7,"Extra Parsley,Less Parsley"
+Arabic,Pasha's Palace,PP2,Appetizer,Hummus,6,"Pita,Veggies"
+Arabic,Pasha's Palace,PP3,Appetizer,Falafel,8,
+Arabic,Pasha's Palace,PP4,Appetizer,Fattoush Salad,8,
+Arabic,Pasha's Palace,PP5,Main Course,Shish Tawook,18,
+Arabic,Pasha's Palace,PP6,Main Course,Lamb Kofta,20,
+Arabic,Pasha's Palace,PP7,Main Course,Chicken Shawarma,15,
+Arabic,Pasha's Palace,PP8,Dessert,Baklava,5,"Pistachio,Walnut"
+Arabic,Pasha's Palace,PP9,Drink,Mint Lemonade,4,"Sweetened,Unsweetened"
+Arabic,Pasha's Palace,PP10,Drink,Arabic Coffee,3,
+Arabic,The Bedouin Table,TBT1,Appetizer,Baba Ghanoush,7,"Pita,Veggies"
+Arabic,The Bedouin Table,TBT2,Appetizer,Stuffed Grape Leaves,8,"Meat,Vegetarian"
+Arabic,The Bedouin Table,TBT3,Appetizer,Lentil Soup,7,
+Arabic,The Bedouin Table,TBT4,Main Course,Beef Kabsa,22,"Spicy,Mild "
+Arabic,The Bedouin Table,TBT5,Main Course,Mixed Grill Platter,25,
+Arabic,The Bedouin Table,TBT6,Main Course,Chicken Maqluba,20,
+Arabic,The Bedouin Table,TBT7,Side,Mujadara,6,
+Arabic,The Bedouin Table,TBT8,Dessert,Qatayef,6,"Nuts,Cream"
+Arabic,The Bedouin Table,TBT9,Drink,Fresh Pomegranate Juice,5,
+Arabic,The Bedouin Table,TBT10,Drink,Rose Water Iced Tea,4,"Sweetened,Unsweetened"
+Arabic,Arabian Nights,AN1,Appetizer,Foul Medames,6,
+Arabic,Arabian Nights,AN2,Appetizer,Fattoush Salad,8,
+Arabic,Arabian Nights,AN3,Appetizer,Chickpea Stew,7,"Spicy,Mild"
+Arabic,Arabian Nights,AN4,Main Course,Lamb Mandaf,24,
+Arabic,Arabian Nights,AN5,Main Course,Grilled Prawns,22,"Lemon Butter,Plain"
+Arabic,Arabian Nights,AN6,Main Course,Chicken Kabob,18,
+Arabic,Arabian Nights,AN7,Side,Spiced Rice,5,"With Nuts,Without Nuts"
+Arabic,Arabian Nights,AN8,Dessert,Basbousa,5,
+Arabic,Arabian Nights,AN9,Drink,Date Smoothie,5,
+Arabic,Arabian Nights,AN10,Drink,Mint Tea,3,
+Arabic,Sahara Delights,SD1,Appetizer,Mutabbal,6,
+Arabic,Sahara Delights,SD2,Appetizer,Kibbeh Nayeh,10,
+Arabic,Sahara Delights,SD3,Appetizer,Muhammara,7,
+Arabic,Sahara Delights,SD4,Appetizer,Harira Soup,6,
+Arabic,Sahara Delights,SD5,Main Course,Shakshuka,12,
+Arabic,Sahara Delights,SD6,Main Course,Freekeh with Chicken,18,
+Arabic,Sahara Delights,SD7,Main Course,Lahmacun,14,"With Lemon,Without Lemon"
+Arabic,Sahara Delights,SD8,Main Course,Eish Baladi,3,"Sesame Seeds,Plain"
+Arabic,Sahara Delights,SD9,Side,Arayes,14,
+Arabic,Sahara Delights,SD10,Dessert,Zalabia,6,"Honey,Powdered Sugar"
+Arabic,Oasis Grill,OG1,Appetizer,Sfeeha (Arabian Meat Pies),8,
+Arabic,Oasis Grill,OG2,Main Course,Fasolia (White Bean Stew),13,
+Arabic,Oasis Grill,OG3,Main Course,Fattah,15,"Meat,Vegetarian"
+Arabic,Oasis Grill,OG4,Main Course,Maqlooba,17,
+Arabic,Oasis Grill,OG5,Main Course,Shish Barak,16,
+Arabic,Oasis Grill,OG6,Main Course,Mansaf,20,
+Arabic,Oasis Grill,OG7,Main Course,Kofta Kebabs,15,
+Arabic,Oasis Grill,OG8,Main Course,Ruz Bukhari,14,
+Arabic,Oasis Grill,OG9,Dessert,Halva,5,"Pistachio,Plain"
+Arabic,Oasis Grill,OG10,Dessert,Kanafeh,7,"Cheese,Cream"
+Vegetarian,Green Leaf Bistro,GLB1,Appetizer,Quinoa Salad,8,
+Vegetarian,Green Leaf Bistro,GLB2,Appetizer,Braised dried plum vegetables with penauts,6,
+Vegetarian,Green Leaf Bistro,GLB3,Appetizer,Hummus with Pita,7,
+Vegetarian,Green Leaf Bistro,GLB4,Main Course,Vegetable Stir-Fry,12,
+Vegetarian,Green Leaf Bistro,GLB5,Main Course,Stuffed Bell Peppers,14,
+Vegetarian,Green Leaf Bistro,GLB6,Main Course,Spinach and Mushroom Quesadilla,10,
+Vegetarian,Green Leaf Bistro,GLB7,Main Course,Falafel Wrap,9,"Hummus,Tahini"
+Vegetarian,Green Leaf Bistro,GLB8,Dessert,Fruit Salad,6,
+Vegetarian,Green Leaf Bistro,GLB9,Drink,Herbal Tea,3,
+Vegetarian,Green Leaf Bistro,GLB10,Drink,Smoothis,5,"With Spinach,Without Spinach"
+Vegetarian,Garden Delight,GD1,Appetizer,Caprese Salad,8,
+Vegetarian,Garden Delight,GD2,Appetizer,Pumpkin Soup,6,
+Vegetarian,Garden Delight,GD3,Appetizer,Grilled Asparagus,7,"Lemon Zest,Plain"
+Vegetarian,Garden Delight,GD4,Main Course,Kimchi Vege Chicken Soup,14,
+Vegetarian,Garden Delight,GD5,Main Course,Cold Nodles,12,
+Vegetarian,Garden Delight,GD6,Main Course,Vegetable Curry,13,
+Vegetarian,Garden Delight,GD7,Main Course,Vegetarian Sushi ,11,"Avocado,Cucumber"
+Vegetarian,Garden Delight,GD8,Dessert,Coconut Rice Pudding,5,
+Vegetarian,Garden Delight,GD9,Drink,Fresh Lemonade,4,
+Vegetarian,Garden Delight,GD10,Drink,Matcha Latte,5,"Almond Milk,Regular Milk"
+Vegetarian,Pure Veggie,PV1,Appetizer,Stuffed Portobello Mushrooms,9,
+Vegetarian,Pure Veggie,PV2,Appetizer,Flammulina Enoki Tofu Soup,7,
+Vegetarian,Pure Veggie,PV3,Appetizer,Brussels Sprouts,8,
+Vegetarian,Pure Veggie,PV4,Main Course,Butternut Squash Risotto,15,
+Vegetarian,Pure Veggie,PV5,Main Course,Grilled Vegetable Platter,13,"With Balsamic Glaze,Plain"
+Vegetarian,Pure Veggie,PV6,Main Course,Vegetable Porridge,10,
+Vegetarian,Pure Veggie,PV7,Main Course,Vegetarian Paella,14,
+Vegetarian,Pure Veggie,PV8,Dessert,Chocolate Avocado Mousse,6,"Berries,Plain"
+Vegetarian,Pure Veggie,PV9,Drink,Kombucha,4,
+Vegetarian,Pure Veggie,PV10,Drink,Iced Vege and Fruit Drink,3,"With Mint,Plain"
+Vegetarian,Veggie Haven,VH1,Appetizer,Signature Salad,8,
+Vegetarian,Veggie Haven,VH2,Appetizer,Gazpacho,6,
+Vegetarian,Veggie Haven,VH3,Appetizer,Ratatouille,9,
+Vegetarian,Veggie Haven,VH4,Main Course,Mushroom Stroganoff,14,"With Tofu,Without Tofu"
+Vegetarian,Veggie Haven,VH5,Main Course,Vegetarian Tacos,11,"Guacamole, Sour Cream"
+Vegetarian,Veggie Haven,VH6,Main Course,Stuffed Zucchini Boats,13,
+Vegetarian,Veggie Haven,VH7,Main Course,Vegetarian Lasagna,15,
+Vegetarian,Veggie Haven,VH8,Dessert,Vegan Brownies,5,
+Vegetarian,Veggie Haven,VH9,Drink,Fresh Mint Tea,3,
+Vegetarian,Veggie Haven,VH10,Drink,Almond Milkshake,5,"Banana,Plain"
+Vegetarian,YUAN Retaurants,YR1,Appetizer,Avocado Toast,8,"Poached Egg,Scramble Egg"
+Vegetarian,YUAN Retaurants,YR2,Appetizer,Carrot Ginger Soup,6,
+Vegetarian,YUAN Retaurants,YR3,Appetizer,Sweet and Sour Cucumbers,7,
+Vegetarian,YUAN Retaurants,YR4,Main Course,Veggie Burger,12,
+Vegetarian,YUAN Retaurants,YR5,Main Course,Vegetarian Pizza,13,"With Olives,Without Olives"
+Vegetarian,YUAN Retaurants,YR6,Main Course,Tofu Stir-Fry,11,
+Vegetarian,YUAN Retaurants,YR7,Main Course,Quinoa and Black Bean Salad,10,
+Vegetarian,YUAN Retaurants,YR8,Dessert,Berry Parfait,6,
+Vegetarian,YUAN Retaurants,YR9,Drink,Organic Green Tea,3,"Lemon,Plain"
+Vegetarian,YUAN Retaurants,YR10,Drink,Freshly Squeezed Juice,4,
+Chinese,Dragon Palace,DP1,Appetizer,Spring Rolls,5,"Peanut Sauce,Sweet Chili Sauce"
+Chinese,Dragon Palace,DP2,Appetizer,Wonton Soup,7,"Shrimp,Pork"
+Chinese,Dragon Palace,DP3,Appetizer,ABC Soup,6,
+Chinese,Dragon Palace,DP4,Appetizer,Dim Sum Platter,10,"Shrimp,Pork"
+Chinese,Dragon Palace,DP5,Main Course,Kung Pao Chicken,14,"Spicy,Mild"
+Chinese,Dragon Palace,DP6,Main Course,Fried Rice,8,
+Chinese,Dragon Palace,DP7,Main Course,Sweet and Sour Pork,15,
+Chinese,Dragon Palace,DP8,Dessert,Egg Tart,4,
+Chinese,Dragon Palace,DP9,Drink,Green Tea,3,
+Chinese,Dragon Palace,DP10,Drink,Kopi O,2,
+Chinese,Golden Wok,GW1,Appetizer,Crab Rangoon,6,
+Chinese,Golden Wok,GW2,Appetizer,Egg Drop Soup,5,
+Chinese,Golden Wok,GW3,Appetizer,Seaweed Salad,7,
+Chinese,Golden Wok,GW4,Appetizer,Potstickers,6,"Pork,Veggies"
+Chinese,Golden Wok,GW5,Main Course,General Tso's Chicken,13,"Spicy,Mild"
+Chinese,Golden Wok,GW6,Main Course,Lo Mein,9,"Shrimp,Chicken"
+Chinese,Golden Wok,GW7,Main Course,Orange Chicken,16,
+Chinese,Golden Wok,GW8,Dessert,Mango Pudding,5,
+Chinese,Golden Wok,GW9,Drink,Jasmine Tea,3,
+Chinese,Golden Wok,GW10,Drink,Bubble Tea,5,"Tapioca Pearls,Jelly"
+Chinese,Jade Garden,JG1,Appetizer,Chicken Lettuce Wraps,7,
+Chinese,Jade Garden,JG2,Appetizer,Lotus Root and Pork Ribs Soup,6,
+Chinese,Jade Garden,JG3,Appetizer,Steamed Dumplings,6,
+Chinese,Jade Garden,JG4,Appetizer,Scallion Pancakes,5,
+Chinese,Jade Garden,JG5,Main Course,Szechuan Chicken,14,"Extra Spicy,Mild"
+Chinese,Jade Garden,JG6,Main Course,Mongolian Beef,15,
+Chinese,Jade Garden,JG7,Side,Fried Rice Cake,8,
+Chinese,Jade Garden,JG8,Dessert,Tao Fu Hua,3,"Ginger Syrup,Normal Syrup"
+Chinese,Jade Garden,JG9,Drink,Oolong Tea,3,
+Chinese,Jade Garden,JG10,Drink,Chrysanthemum Tea,4,
+Chinese,Red Lantern,RL1,Appetizer,Bird's Nest Soup,10,
+Chinese,Red Lantern,RL2,Appetizer,Sliced Cucumber Salad,6,
+Chinese,Red Lantern,RL3,Appetizer,BBQ Pork Buns,6,
+Chinese,Red Lantern,RL4,Main Course,Peking Duck,23,"Hoisin Sauce,Plum Sauce"
+Chinese,Red Lantern,RL5,Main Course,Honey Walnut Shrimp,18,
+Chinese,Red Lantern,RL6,Side,Salad Dumplings,9,
+Chinese,Red Lantern,RL7,Dessert,Sesame Balls,4,"Red Bean Paste,Lotus Seed Paste"
+Chinese,Red Lantern,RL8,Drink,Plum Wine,7,"Chilled,Room Temperature"
+Chinese,Red Lantern,RL9,Drink,Herbal Tea,5,
+Chinese,Red Lantern,RL10,Drink,Chilled Coconut Milk,4,
+Chinese,Bamboo House,BH1,Appetizer,Pork Egg Rolls,5,
+Chinese,Bamboo House,BH2,Appetizer,Chicken Corn Soup,6,
+Chinese,Bamboo House,BH3,Appetizer,Chinese Chicken Salad,7,
+Chinese,Bamboo House,BH4,Appetizer,Pineapple Fried Shrimp Balls,7,
+Chinese,Bamboo House,BH5,Main Course,Teochew Porridge,10,"Salted Egg,Century Egg"
+Chinese,Bamboo House,BH6,Main Course,Lemon Chicken,14,
+Chinese,Bamboo House,BH7,Side,Fried Rice,8,
+Chinese,Bamboo House,BH8,Dessert,Lychee Pudding,5,
+Chinese,Bamboo House,BH9,Drink,Hor Ka Sai Kopi,5,
+Chinese,Bamboo House,BH10,Drink,Barley ,4,"Ice,Hot"
+Japanese,Sakura Blossom,SB1,Appetizer,Edamame,5,"Sea Salt,Plain"
+Japanese,Sakura Blossom,SB2,Appetizer,Miso Soup,4,
+Japanese,Sakura Blossom,SB3,Appetizer,Takoyaki,6,
+Japanese,Sakura Blossom,SB4,Appetizer,Gyoza,7,"Pork,Vegetables"
+Japanese,Sakura Blossom,SB5,Main Course,Sushi Platter,22,
+Japanese,Sakura Blossom,SB6,Main Course,Chicken Teriyaki,15,
+Japanese,Sakura Blossom,SB7,Side,Steamed Rice,3,
+Japanese,Sakura Blossom,SB8,Dessert,Mochi Ice Cream,5,"Matcha,Mango"
+Japanese,Sakura Blossom,SB9,Drink,Green Tea,3,
+Japanese,Sakura Blossom,SB10,Drink,Sake,6,"Hot,Cold"
+Japanese,Zen Garden,ZG1,Appetizer,Agedashi Tofu,6,
+Japanese,Zen Garden,ZG2,Appetizer,Clear Soup,5,
+Japanese,Zen Garden,ZG3,Appetizer,Octopus Salad,8,
+Japanese,Zen Garden,ZG4,Appetizer,Tamagoyaki,7,
+Japanese,Zen Garden,ZG5,Main Course,Ramen,13,"Pork, Chicken"
+Japanese,Zen Garden,ZG6,Main Course,Beef Yakiniku,18,
+Japanese,Zen Garden,ZG7,Side,Sushi Rice,4,
+Japanese,Zen Garden,ZG8,Dessert,Dorayaki,4,"Red Bean Paste,Custard"
+Japanese,Zen Garden,ZG9,Drink,Matcha Latte,4,"Almond Milk,Regular Milk"
+Japanese,Zen Garden,ZG10,Drink,Hojicha,5,
+Japanese,Tokyo Table,TT1,Appetizer,Onion Soup,5,
+Japanese,Tokyo Table,TT2,Appetizer,Cucumber Salad,6,"Vinegar,Soy Sauce"
+Japanese,Tokyo Table,TT3,Appetizer,Chicken Karaage,7,
+Japanese,Tokyo Table,TT4,Main Course,Sashimi Deluxe,25,"Soy Sauce,Wasabi"
+Japanese,Tokyo Table,TT5,Main Course,Salmon Teriyaki,17,
+Japanese,Tokyo Table,TT6,Side,Sticky Rice,4,
+Japanese,Tokyo Table,TT7,Side,French Fries,4,"Ketchup,Mayo"
+Japanese,Tokyo Table,TT8,Dessert,Matcha Cheesecake,6,
+Japanese,Tokyo Table,TT9,Drink,Yuzu Soda,5,
+Japanese,Tokyo Table,TT10,Drink,Black Sesame Milkshake,6,
+Japanese,Hana Sushi,HS1,Appetizer,Ikura Sushi,9,
+Japanese,Hana Sushi,HS2,Appetizer,Tofu Soup,5,
+Japanese,Hana Sushi,HS3,Appetizer,Radish Salad,6,
+Japanese,Hana Sushi,HS4,Appetizer,Tempura,8,
+Japanese,Hana Sushi,HS5,Main Course,Bento Box,20,"Chicken,Fish"
+Japanese,Hana Sushi,HS6,Main Course,Unagi Don,18,
+Japanese,Hana Sushi,HS7,Side,White Rice,3,
+Japanese,Hana Sushi,HS8,Dessert,Anmitsu,6,
+Japanese,Hana Sushi,HS9,Drink,Umeboshi Tea,4,
+Japanese,Hana Sushi,HS10,Drink,Sakura Soda,5,
+Japanese,Kyoto Kitchen,KK1,Appetizer,Natto,6,"Soy Sauce,Mustard"
+Japanese,Kyoto Kitchen,KK2,Appetizer,Furofuki Daikon,4,
+Japanese,Kyoto Kitchen,KK3,Appetizer,Hijiki Salad,6,
+Japanese,Kyoto Kitchen,KK4,Appetizer,Yakitori,7,
+Japanese,Kyoto Kitchen,KK5,Main Course,Chirashi Bowl,22,"Soy Sauce,Wasabi"
+Japanese,Kyoto Kitchen,KK6,Main Course,Grilled Mackerel,17,
+Japanese,Kyoto Kitchen,KK7,Side,Spinach Ohitashi,3,
+Japanese,Kyoto Kitchen,KK8,Dessert,Taiyaki,5,
+Japanese,Kyoto Kitchen,KK9,Drink,Ramune,4,"Lemon,Orange"
+Japanese,Kyoto Kitchen,KK10,Drink,Calpis,3,

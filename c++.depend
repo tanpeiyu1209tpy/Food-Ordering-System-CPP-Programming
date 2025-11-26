@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1721037036 source:c:\users\user\onedrive\桌面\c++\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"customer.h"
+	"restaurant.h"
+	"payment.h"
+
+1721046169 c:\users\user\onedrive\桌面\c++\customer.h
+	<iostream>
+	<vector>
+	<stdexcept>
+	<fstream>
+	<sstream>
+	<limits>
+
+1721053891 c:\users\user\onedrive\桌面\c++\restaurant.h
+	<iostream>
+	<string>
+	<vector>
+	<stdexcept>
+	<fstream>
+	<sstream>
+	<limits>
+	<algorithm>
+	<set>
+	"customer.h"
+
+1721052904 c:\users\user\onedrive\桌面\c++\payment.h
+	<iostream>
+	<iomanip>
+	<string>
+	<vector>
+	<stdexcept>
+	<fstream>
+	<sstream>
+	<limits>
+	<algorithm>
+	<set>
+	<map>
+	<cctype>
+	<cstdlib>
+	<random>
+	<unordered_set>
+	"customer.h"
+	"restaurant.h"
+
